@@ -1,27 +1,10 @@
-# AngularAppShellDemo
+# Angular App Shell Demo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+This angular project is for an accompanying post, which can be found [here](http://theinfogrid.com/tech/developers/angular/app-shell-improv…rmance-angular-6/) version 6.2.3.
 
-## Development server
+To run this angular project
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+1. First, clone this project `$ git clone https://github.com/MainaWycliffe/angular-app-shell-demo.git`
+2. Then, install NPM Dependancies - `$ yarn install`
+3. And then build the angular app - `$ ng run angular-app-shell-demo:app-shell`
+4. Use any server to run the build application
